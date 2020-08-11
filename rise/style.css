@@ -19,3 +19,8 @@
 
     border-radius: 50% / 25% 25% 0 0;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
