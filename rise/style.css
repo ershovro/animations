@@ -1,7 +1,4 @@
 #rise {
-    width: 100%;
-    height: 800px;
-
     margin: auto;
 
     display: flex;
@@ -18,6 +15,13 @@
     background-color: green;
 
     border-radius: 50% / 25% 25% 0 0;
+}
+
+
+html, body, #rise {
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
 }
 
 body {
