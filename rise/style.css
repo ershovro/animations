@@ -16,4 +16,6 @@
 .earth {
     height: 400px;
     background-color: green;
+
+    border-radius: 50% / 25% 25% 0 0;
 }
