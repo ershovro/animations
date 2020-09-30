@@ -6,7 +6,7 @@
 }
 
 .sky {
-    height: 400px;
+    height: 80%;
     background: radial-gradient(circle at 15% 85%, rgb(255, 255, 252), rgb(253, 258, 195) 10%, rgb(223, 200, 208) 14%, rgb(223, 200, 208) 22%, rgb(45, 122, 198) 40%, rgb(45, 122, 198) 65%, rgb(0, 11, 89));
 }
 
@@ -20,7 +20,7 @@
 }
 
 .earth {
-    height: 400px;
+   /* height: 400px;*/
     background-color: green;
 
     border-radius: 50% / 25% 25% 0 0;
