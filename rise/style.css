@@ -7,7 +7,7 @@
 
 .sky {
     height: 400px;
-    background-color: blue;
+    background: radial-gradient(circle at 15% 85%, rgb(255, 255, 252), rgb(253, 258, 195) 10%, rgb(223, 200, 208) 14%, rgb(223, 200, 208) 22%, rgb(45, 122, 198) 40%, rgb(45, 122, 198) 65%, rgb(0, 11, 89));
 }
 
 .launchVehicle {
