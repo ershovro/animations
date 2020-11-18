@@ -6,8 +6,19 @@
 }
 
 .sky {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
     height: 80%;
     background: radial-gradient(circle at 15% 85%, rgb(255, 255, 252), rgb(253, 258, 195) 10%, rgb(223, 200, 208) 14%, rgb(223, 200, 208) 22%, rgb(45, 122, 198) 40%, rgb(45, 122, 198) 65%, rgb(0, 11, 89));
+}
+
+.orangeLine {
+    height: 150px;
+    width: 100%;
+
+    background: radial-gradient(circle at 15% 85%, rgb(255, 255, 252), rgb(253, 258, 195) 10%, rgb(223, 200, 208) 14%, rgb(245, 190, 95) );
 }
 
 .launchVehicle {
